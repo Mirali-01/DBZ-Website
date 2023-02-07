@@ -1,0 +1,130 @@
+/* Touch top of the page */
+/* top: 0 */
+*{
+    margin: 0;
+}
+
+.dbContainer{
+    /* border: solid orange; */
+    height: 10vh;
+    display: flex;
+    justify-content: space-between;
+    /* background-image: url("https://rare-gallery.com/uploads/posts/917067-anime-landscape-sky-clouds-ArtStation-artwork.jpg"); */
+    background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/84dc13b7-a2e7-4b45-83ec-311e72e82900/ddauera-45709056-d325-4e1d-95a7-515d13bbbd35.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg0ZGMxM2I3LWEyZTctNGI0NS04M2VjLTMxMWU3MmU4MjkwMFwvZGRhdWVyYS00NTcwOTA1Ni1kMzI1LTRlMWQtOTVhNy01MTVkMTNiYmJkMzUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.QzfqbEGsE7NIXV0pDFS2WlIWq3hBYvYoVsr1jhstVbA");
+    background-size: cover;
+    background-attachment: fixed;
+}
+.db{
+    /* border: solid red; */
+    height: 100%;
+}
+
+/* Turn dragonballs into buttons for hover effect */
+.dbImg{
+    height: 10vh;
+    width: 10vh;
+}
+
+
+.dbTitleContainer{
+    /* border: solid red; */
+    height: 16vh;
+    display: flex;
+    justify-content: center;
+    background-image: url("https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/52ab28cb42ffabfc1991db35f4d8396f.png");
+    background-size: cover;
+    background-position-y: -19vh;
+    background-attachment: fixed;
+}
+
+.titleImg{
+    height: 16vh;
+}
+
+.section1Container{
+    /* border: solid red; */
+    height: 90vh;
+    background-image: url("https://wallpaperaccess.com/full/1592987.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+}
+
+.section2Container{
+    /* border: solid green; */
+    background-color: #1a73ad;
+    height: 65vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    /* background-image: url(""); */
+}
+
+.vegetaHolder{
+    /* border: solid brown; */
+    height: 100%;
+}
+
+.vegeta{
+    /* border: solid blue; */
+    height: 100%;
+}   
+
+.vegetaQuote{
+    /* border: solid maroon; */
+    height: 22vh;
+    width: 50%;
+}
+
+.quote1{
+    /* border: solid red; */
+    height: 100%;
+    color: black;
+    text-align: center;
+    margin-top: 2vh;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.section3Container{
+    /* border: solid cadetblue; */
+    background-color: #9588e4;
+    height: 65vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    /* background-image: url(""); */
+}
+
+.gokuHolder{
+    /* border: solid lawngreen; */
+    height: 100%;
+}
+
+.goku{
+    /* border: solid orange; */
+    height: 65vh;
+}
+
+.gokuQuote{
+    /* border: solid maroon; */
+    height: 22vh;
+    width: 50%;
+    margin-right: 65vh;
+}
+
+.quote2{
+    /* border: solid red; */
+    height: 100%;
+    color: black;
+    text-align: center;
+    margin-top: 10vh;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.kame{
+    height: 100vh;
+    width: 100%;
+    background-image: url("https://wallpapercave.com/wp/wp6778578.jpg");
+    background-size: cover;
+}
